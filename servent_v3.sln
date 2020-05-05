@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "servent_v3", "servent_v3\servent_v3.pyproj", "{4E9437B6-69F1-418C-99E7-47CB66BC428F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E9437B6-69F1-418C-99E7-47CB66BC428F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9437B6-69F1-418C-99E7-47CB66BC428F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7EA032A-7E95-410F-90CF-9B4CBC03C539}
+	EndGlobalSection
+EndGlobal
